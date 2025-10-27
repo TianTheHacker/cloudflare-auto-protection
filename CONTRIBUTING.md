@@ -82,8 +82,8 @@ Fixes #123
 
 1. Clone your fork:
 ```bash
-git clone https://github.com/your-username/cf-under-attack-automaticly.git
-cd cf-under-attack-automaticly
+git clone https://github.com/your-username/cloudflare-auto-protection.git
+cd cloudflare-auto-protection
 ```
 
 2. Create a test configuration:

@@ -27,8 +27,8 @@ Automatic Cloudflare "Under Attack Mode" activation based on server CPU load mon
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cf-under-attack-automaticly.git
-cd cf-under-attack-automaticly
+git clone https://github.com/and-ri/cloudflare-auto-protection.git
+cd cloudflare-auto-protection
 ```
 
 ### 2. Configure the script
